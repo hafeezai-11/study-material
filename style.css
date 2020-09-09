@@ -3,9 +3,9 @@ body{
     
 }
 .year{
-    font-family: 'Staatliches';
+    font-family: 'Passion One', cursive;
     font-size: 30px;
-    color: white;
+    color: blueviolet;
     list-style-type: square;
 }
 #heading{
