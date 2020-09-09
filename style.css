@@ -13,7 +13,15 @@ body{
   text-align: center;
   font-family: 'Teko', sans-serif;
   color: bisque;
+  font-family: 'Fugaz One', cursive;
 
+}
+h2{
+    text-transform: capitalize;
+  text-align: center;
+  font-family: 'Teko', sans-serif;
+  color: bisque;
+  font-family: 'Fugaz One', cursive;
 }
 .list {
  
